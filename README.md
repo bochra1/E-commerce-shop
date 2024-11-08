@@ -1,4 +1,5 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Built with the Next.js 14 App Router, Postgres, TypeScript, Tailwind , Kinde Auth & Stripe.
 
 ## Getting Started
 
